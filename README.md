@@ -1,10 +1,4 @@
 # hello-world
 Tutorial project
 
-
-Proyecto de pruebas
-
-Cambios desde VSCode
-
-
-Mas cosas
+Cambios desde BranchTest
